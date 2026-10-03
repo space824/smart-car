@@ -16,3 +16,6 @@ smart-car/
 ## 环境
 - 芯片：STM32
 - 开发环境：Keil MDK / STM32CubeMX
+
+## 更新日志
+- 2026-10-03：初始化项目，练习 git 上传流程
